@@ -177,12 +177,12 @@ The right-skewed order value distribution has a direct pricing and marketing imp
 ## 📸 Visual Gallery
 
 ### 1️⃣ Sales Performance Dashboard
-<p align="center"><img src="./images/dashboard_overview.png" width="800"></p>
+<p align="center"><img src="./Images/dashboard_overview.png" width="800"></p>
 
 *The live Dashboard sheet — KPI cards for Total Revenue, Total Orders, Average Order Value, Unique Customers, Top Region, and Top Category, all computed via formulas rather than hardcoded values, so every number updates automatically if the underlying Sales_Fact data changes.*
 
 ### 2️⃣ Pivot Tables — Region, Category & Monthly Breakdown
-<p align="center"><img src="./images/pivot_tables.png" width="800"></p>
+<p align="center"><img src="./Images/pivot_tables.png" width="800"></p>
 
 *The core pivot tables driving every chart in the dashboard — sales by store region, revenue by product category, and a full month-by-category count breakdown, plus a loyalty-level customer count table.*
 
